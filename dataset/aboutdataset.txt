@@ -1,0 +1,52 @@
+Description:
+This dataset explores the relationship between students' health and their academic performance. It contains multiple rows of data, each representing a student, and multiple columns, including variables such as:
+
+Names : Student names
+
+Age : Student ages (in years)
+
+Gender : Male/Female
+
+Mobile phone : Do students own a mobile phone? (Yes/No)
+
+Mobile Operating System : Type of mobile operating system used (e.g. Android, iOS, Other)
+
+Mobile phone use for education : Do students use their mobile phone for educational purposes?(Sometime/ Frequently /Rarely )
+
+Mobile phone activities : List of mobile phone activities used for educational purposes (e.g. online research, educational apps, email, online learning platforms)
+
+Helpful for studying : Do students find mobile phone use helpful for studying? (Yes/No)
+
+Educational Apps : List of educational apps used.
+
+Daily usages : Average daily time spent using mobile phone for educational purposes (in hours)
+
+Performance impact : How does mobile phone use impact academic performance? (Agree/ Neutral/ Strongly agree)
+
+Usage distraction : Does mobile phone use distract from studying? (During Exams / Not Distracting / During Class Lectures / While Studying )
+
+Attention span : Has mobile phone use affected attention span? (Yes / No)
+
+Useful features : What features of mobile phones are useful for learning? (e.g. Internet Access, Camera, Calculator
+, Notes Taking App )
+
+Health Risks : Are students aware of potential health risks associated with excessive mobile phone use? (Yes / No / Only Partially)
+
+Beneficial subject : Which subjects benefit most from mobile phone use? (e.g. Accounting, Browsing Material, Research)
+
+Usage symptoms : Are students experiencing any physical or mental symptoms related to mobile phone use? (e.g. Sleep disturbance, headaches, Anxiety or Stress, All of these)
+
+Headache: Do students experience headaches?
+	
+Sleep Disorders: Do students suffer from sleep disorders?
+
+Anxiety or Stress: Do students suffer from anxiety or stress?
+
+Symptom frequency : How often are symptoms experienced? (Sometimes / Never / Rarely / Frequently)
+
+Health precautions : Are students taking precautions to mitigate potential health risks? (Taking Break during prolonged use / Using Blue light filter / Limiting Screen Time / None of Above)
+
+Health rating : How would students rate their overall physical and mental health? (Excellent / Good / Fair / Poor)
+
+
+This dataset can be used to analyze the impact of health on academic success, identify potential predictors of academic performance, and inform interventions to support students' overall well-being and academic achievement.
